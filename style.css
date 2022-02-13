@@ -1,0 +1,7 @@
+.stats > .col-12 {
+margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.stats > .col-12:first-child {
+	margin-top: 0;
+}
